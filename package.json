@@ -1,0 +1,11 @@
+{
+  "name": "reina-del-cash",
+  "version": "1.0.0",
+  "description": "Simple landing page for Reina Del Cash",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 
